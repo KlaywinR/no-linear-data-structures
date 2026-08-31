@@ -8,7 +8,6 @@ coeficiente (a_i) e o grau (j), além do ponteiro para o próximo termo.
 Segue o mesmo padrão de nó apresentado na Figura 1 do enunciado
 (nó-cabeça + nós de dados com campos "coeficiente" e "grau").
 """
-
 from __future__ import annotations
 from typing import Optional
 

@@ -9,17 +9,6 @@ Formato do arquivo (ver Figura 2 do enunciado):
     - Um polinômio é representado como uma sequência "achatada" de
       números: coeficiente_1 grau_1 coeficiente_2 grau_2 ...
       (ex.: "-3 5 6 3 -7 1 8 0" representa -3x^5 + 6x^3 - 7x + 8).
-    - Comandos reconhecidos e as linhas de dados que cada um consome
-      logo em seguida:
-
-        '+'        -> soma:            2 linhas de polinômio (p, q)
-        '-'        -> subtração:       2 linhas de polinômio (p, q)
-        '*'        -> multiplicação:   2 linhas de polinômio (p, q)
-        'g' / 'G'  -> grau:            1 linha de polinômio
-        't' / 'T'  -> tamanho:         1 linha de polinômio
-        'p' / 'P'  -> exibição:        1 linha de polinômio
-        'a' / 'A'  -> avaliação:       1 linha com o valor de x,
-                                        seguida de 1 linha de polinômio
 """
 
 from __future__ import annotations

@@ -1,6 +1,4 @@
 """
-Módulo: src/polinomio.py
-
 Implementa a classe Polinomio: representação e manipulação de
 polinômios univariados por meio de uma lista encadeada.
 

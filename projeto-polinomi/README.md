@@ -1,6 +1,6 @@
 # Projeto Polinômio — Estrutura de Dados Lineares
 
-Implementação do **Projeto Polinômio** :representação e manipulação de polinômios univariados ultilizando listas encadeadas.
+Implementação do Projeto Polinômio, uma representação e manipulação de polinômios univariados ultilizando listas encadeadas.
 
 
 ## Estrutura de diretórios
